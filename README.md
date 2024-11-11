@@ -1,2 +1,2 @@
 # CaptainBinary-clone
-This is a static website based on HTML, CSS and BOOTSTRAP. It is a cloned website of captainbinary.com which I built as a beginner mern developer when I was doing my course at OSTAD.
+This is a static website built using HTML, CSS, and Bootstrap. It is a clone of the CaptainBinary.com website, created as a part of my beginner-level MERN stack course at Ostad.
