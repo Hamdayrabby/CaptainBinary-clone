@@ -1,6 +1,9 @@
 # CaptainBinary-clone
 This is a static website built using HTML, CSS, and Bootstrap. It is a clone of the CaptainBinary.com website, created as a part of my beginner-level MERN stack course at Ostad.
 
+
+
+
 **Site design**
 
 *Hero Section*
@@ -20,7 +23,4 @@ This is a static website built using HTML, CSS, and Bootstrap. It is a clone of 
 
 *Message Section*
 ![image](https://github.com/user-attachments/assets/175f93f8-cffa-4c94-89e8-6b99c6c5d4fc)
-
-
-
 
